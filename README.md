@@ -2,7 +2,7 @@
 FiveM Launcher
 
 ### [Video](https://youtu.be/S97lvvmmF9k)
-# New Features!
+# Features
 
   - Auto Get Server Profile Picture
   - Auto Get Server Player And Max Player
